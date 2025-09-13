@@ -49,6 +49,7 @@ Effective inventory and sales management are critical in the retail sector. This
 
 ---
 
+
 ## 📂 Project Structure  
 ```plaintext
 ├── data/                 # Raw & cleaned datasets  
@@ -56,6 +57,8 @@ Effective inventory and sales management are critical in the retail sector. This
 ├── scripts/              # SQL queries & Python scripts  
 ├── dashboard/            # Power BI file  
 └── README.md             # Project documentation  
+'''
+
 ---
 
 🧹 Data Cleaning & Preparation
