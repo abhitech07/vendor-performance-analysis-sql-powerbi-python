@@ -157,7 +157,7 @@ python scripts/get_vendor_summary.py
 
 **Abhijeet Kumar Pandey**  
 Data Analyst  
-📧 Email: techclasses0810@gmail.com  
+📧 Email: abhijeet.kr.pandey.07@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/abhitech07/)  
 🔗 [Portfolio](https://github.com/abhitech07/)
 
