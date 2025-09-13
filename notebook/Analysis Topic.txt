@@ -1,0 +1,18 @@
+The purchases table contains actual purchase data, including the date of purchase, products (brands) purchased by vendors, the amount paid (in dollars), and the quantity purchased.
+
+The purchase price column is derived from the purchase_prices table, which provides product-wise actual and purchase prices. The combination of vendor and brand is unique in this table.
+
+The vendor_invoice table aggregates data from the purchases table, summarizing quantity and dollar amounts, along with an additional column for freight. This table maintains uniqueness based on vendor and PO number.
+
+The sales table captures actual sales transactions, detailing the brands purchased by vendors, the quantity sold, the selling price, and the revenue earned.
+
+
+As the data that we need for analysis is distributed in different tables, we need to create a summary table containing:
+
+purchase transactions made by vendors
+
+sales transaction data
+
+freight costs for each vendor
+
+actual product prices from vendors
