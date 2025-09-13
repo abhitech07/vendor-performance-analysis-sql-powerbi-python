@@ -56,38 +56,39 @@ Effective inventory and sales management are critical in the retail sector. This
 ├── scripts/              # SQL queries & Python scripts  
 ├── dashboard/            # Power BI file  
 └── README.md             # Project documentation  
+---
 
 🧹 Data Cleaning & Preparation
 
 - Handled missing values and outliers.
 - Ensured compliance with data dictionaries.
 - Applied transformations for consistency.
-
+---
 🔎 Exploratory Data Analysis (EDA)
 
 - Distribution analysis of profit margins & sales.
 - Vendor performance comparisons.
 - Inventory turnover insights.
-
+---
 ❓ Research Questions & Key Findings
 
 - Is vendor profitability significantly different between top vs low performers?
 - What percentage of purchases are concentrated in the top 10 vendors?
 - How does bulk purchasing affect overall cost savings?
-
+---
 Key Insights:
 
 - Top 10 vendors contribute 65.7% of purchases.
 - Over $2.71M in unsold inventory tied to underperforming vendors.
 - Bulk purchasing yields up to 72% cost savings.
-
+---
 📊 Dashboard
 
 - Power BI dashboard provides:
 - Vendor performance KPIs.
 - Profit margin trends.
 - Inventory optimization insights.
-
+---
 ▶ How to Run This Project
 
 Clone the repository:
@@ -97,13 +98,13 @@ Clone the repository:
 - Import SQL scripts to set up database.
 - Run Python notebooks for data cleaning & analysis.
 - Open Power BI file for interactive dashboard.
-
+---
 ✅ Final Recommendations
 
 - Diversify vendor base to reduce dependency.
 - Optimize inventory by reducing slow-moving items.
 - Leverage bulk purchasing strategies for cost efficiency.
-
+---
 👤 Author & Contact
 
 Abhijeet Kumar Pandey
